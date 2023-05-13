@@ -68,3 +68,7 @@ Which python mean the `python.exe` location in your PC.
 ```bash
 pip install -r requirements.txt 
 ```
+
+![lag tag](https://github.com/Abdelrahman898/e2e_ml_project/blob/main/images/output.png)
+
+![lag tag](https://github.com/Abdelrahman898/e2e_ml_project/blob/main/images/01_output.png)
