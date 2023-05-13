@@ -69,6 +69,8 @@ Which python mean the `python.exe` location in your PC.
 pip install -r requirements.txt 
 ```
 
+This image tells you that the housing prices are very much related to the location (e.g., close to the ocean) and to the population density, as you probably knew already.
+
 ![lag tag](https://github.com/Abdelrahman898/e2e_ml_project/blob/main/images/output.png)
 
 ![lag tag](https://github.com/Abdelrahman898/e2e_ml_project/blob/main/images/01_output.png)
